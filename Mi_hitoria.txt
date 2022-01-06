@@ -12,3 +12,5 @@ por primera vez estamos agregando informacion en una
 rama de un proyecto
 
 Este proyecto es el desarrollo de una rama
+
+Tengamos presente que este es el maestro
