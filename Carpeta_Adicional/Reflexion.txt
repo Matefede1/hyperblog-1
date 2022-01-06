@@ -1,0 +1,3 @@
+Ademas del archivo de mi historia 
+hagamos algo adicional
+para verificar el funcionamiento de GIT
