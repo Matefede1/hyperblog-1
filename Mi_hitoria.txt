@@ -6,7 +6,7 @@ ahora me encuentro corriendo con muchas cosas
 Pero ya vendra la calma 
 con trabajo constante y trabajo inteligente
 
-Ahora empezamos a trabajar con el concepto de cabecera
+Ahora empezamos a trabajar con el concepto de error
 
 por primera vez estamos agregando informacion en una 
 rama de un proyecto
